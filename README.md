@@ -3,3 +3,4 @@
 * Strings
 * Linked List
 * Tree
+* Heap
