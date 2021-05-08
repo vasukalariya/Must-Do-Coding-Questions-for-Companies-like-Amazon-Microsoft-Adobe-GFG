@@ -2,5 +2,9 @@
 * Arrays
 * Strings
 * Linked List
+* Stack and Queue
 * Tree
 * Heap
+* Recursion
+* Hashing
+* Graph
